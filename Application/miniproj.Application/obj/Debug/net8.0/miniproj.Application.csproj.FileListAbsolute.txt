@@ -1,0 +1,15 @@
+C:\Users\Dedro\miniproj\Application\miniproj.Application\bin\Debug\net8.0\miniproj.Application.deps.json
+C:\Users\Dedro\miniproj\Application\miniproj.Application\bin\Debug\net8.0\miniproj.Application.dll
+C:\Users\Dedro\miniproj\Application\miniproj.Application\bin\Debug\net8.0\miniproj.Application.pdb
+C:\Users\Dedro\miniproj\Application\miniproj.Application\bin\Debug\net8.0\miniproj.Domain.dll
+C:\Users\Dedro\miniproj\Application\miniproj.Application\bin\Debug\net8.0\miniproj.Domain.pdb
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\miniproj.Application.csproj.AssemblyReference.cache
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\miniproj.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\miniproj.Application.AssemblyInfoInputs.cache
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\miniproj.Application.AssemblyInfo.cs
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\miniproj.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\miniproj.762CBA40.Up2Date
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\miniproj.Application.dll
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\refint\miniproj.Application.dll
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\miniproj.Application.pdb
+C:\Users\Dedro\miniproj\Application\miniproj.Application\obj\Debug\net8.0\ref\miniproj.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\bin\Debug\net8.0\miniproj.Domain.deps.json
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\bin\Debug\net8.0\miniproj.Domain.dll
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\bin\Debug\net8.0\miniproj.Domain.pdb
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.csproj.AssemblyReference.cache
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.AssemblyInfoInputs.cache
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.AssemblyInfo.cs
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.dll
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\refint\miniproj.Domain.dll
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.pdb
+C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\ref\miniproj.Domain.dll

@@ -1,0 +1,17 @@
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\bin\Debug\net8.0\miniproj.Infrastructure.deps.json
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\bin\Debug\net8.0\miniproj.Infrastructure.dll
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\bin\Debug\net8.0\miniproj.Infrastructure.pdb
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\bin\Debug\net8.0\miniproj.Application.dll
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\bin\Debug\net8.0\miniproj.Domain.dll
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\bin\Debug\net8.0\miniproj.Domain.pdb
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\bin\Debug\net8.0\miniproj.Application.pdb
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\miniproj.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\miniproj.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\miniproj.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\miniproj.Infrastructure.AssemblyInfo.cs
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\miniproj.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\miniproj.5361DF5F.Up2Date
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\miniproj.Infrastructure.dll
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\refint\miniproj.Infrastructure.dll
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\miniproj.Infrastructure.pdb
+C:\Users\Dedro\miniproj\Infrastructure\miniproj.Infrastructure\obj\Debug\net8.0\ref\miniproj.Infrastructure.dll

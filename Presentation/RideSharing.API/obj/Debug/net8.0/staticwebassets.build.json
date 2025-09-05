@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QoV5j5lW4qfvEbyZGEAEisTx2V/0SIP1JJiGd63tGnE=",
+  "Source": "RideSharing.API",
+  "BasePath": "_content/RideSharing.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
