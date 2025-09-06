@@ -1,19 +1,28 @@
 using MediatR;
- using MongoDB.Driver;
- using miniproj.Application.Commands;
- using miniproj.Application.Interfaces;
- using miniproj.Domain.Services;
- using miniproj.Infrastructure.Repositories;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization;
+using MongoDB.Bson.Serialization.Serializers;
+using MongoDB.Driver;
+using miniproj.Application.Commands;
+using miniproj.Application.Interfaces;
+using miniproj.Domain.Services;
+using miniproj.Infrastructure.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
+
+// Configure MongoDB GUID serialization
+BsonSerializer.RegisterSerializer(new GuidSerializer(GuidRepresentation.Standard));
+
 var mongoDbSettings = builder.Configuration.GetSection("MongoDbSettings");
 var connectionString = mongoDbSettings["ConnectionString"];
 var databaseName = mongoDbSettings["DatabaseName"];
 
- builder.Services.AddSingleton<IMongoClient>(new MongoClient(connectionString));
+builder.Services.AddSingleton<IMongoClient>(new MongoClient(connectionString));
 builder.Services.AddScoped<IMongoDatabase>(sp => sp.GetRequiredService<IMongoClient>().GetDatabase(databaseName));
 builder.Services.AddScoped<IUserRepository, MongoUserRepository>();
 builder.Services.AddScoped<IOrderRepository, MongoOrderRepository>();
 builder.Services.AddScoped<CalculateDiscountForFirstOrder>();
+
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<miniproj.Application.Commands.RegisterUserCommand>());

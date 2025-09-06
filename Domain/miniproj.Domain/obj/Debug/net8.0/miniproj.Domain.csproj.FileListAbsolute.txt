@@ -10,3 +10,16 @@ C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.
 C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\refint\miniproj.Domain.dll
 C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.pdb
 C:\Users\Dedro\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\ref\miniproj.Domain.dll
+D:\mini\miniproj\Domain\miniproj.Domain\bin\Debug\net8.0\miniproj.Domain.deps.json
+D:\mini\miniproj\Domain\miniproj.Domain\bin\Debug\net8.0\miniproj.Domain.dll
+D:\mini\miniproj\Domain\miniproj.Domain\bin\Debug\net8.0\miniproj.Domain.pdb
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.csproj.AssemblyReference.cache
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.AssemblyInfoInputs.cache
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.AssemblyInfo.cs
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.csproj.CoreCompileInputs.cache
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.sourcelink.json
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.dll
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\refint\miniproj.Domain.dll
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\miniproj.Domain.pdb
+D:\mini\miniproj\Domain\miniproj.Domain\obj\Debug\net8.0\ref\miniproj.Domain.dll

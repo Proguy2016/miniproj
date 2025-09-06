@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dedro\\miniproj\\Domain\\miniproj.Domain\\miniproj.Domain.csproj": {}
+    "D:\\mini\\miniproj\\Domain\\miniproj.Domain\\miniproj.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dedro\\miniproj\\Domain\\miniproj.Domain\\miniproj.Domain.csproj": {
+    "D:\\mini\\miniproj\\Domain\\miniproj.Domain\\miniproj.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dedro\\miniproj\\Domain\\miniproj.Domain\\miniproj.Domain.csproj",
+        "projectUniqueName": "D:\\mini\\miniproj\\Domain\\miniproj.Domain\\miniproj.Domain.csproj",
         "projectName": "miniproj.Domain",
-        "projectPath": "C:\\Users\\Dedro\\miniproj\\Domain\\miniproj.Domain\\miniproj.Domain.csproj",
-        "packagesPath": "C:\\Users\\Dedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dedro\\miniproj\\Domain\\miniproj.Domain\\obj\\",
+        "projectPath": "D:\\mini\\miniproj\\Domain\\miniproj.Domain\\miniproj.Domain.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\mini\\miniproj\\Domain\\miniproj.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

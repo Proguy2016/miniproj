@@ -3,10 +3,11 @@ namespace miniproj.Domain.Entities
 {
     public class Order
     {
-        public Guid Id { get; }
-        public Guid UserId { get; }
+        public Guid Id { get; set;}
+        public Guid UserId { get; set;}
         public Money TotalPrice { get; set; }
-        public DateTime OrderDate { get; }
+        public DateTime OrderDate { get; set;}
+        public Order(){}
         public Order(Guid orderId,Guid userId, Money totalPrice)
         {
             this.Id = orderId;

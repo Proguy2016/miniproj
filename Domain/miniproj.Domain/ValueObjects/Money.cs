@@ -8,8 +8,9 @@ namespace miniproj.Domain.ValueObjects
     }
     public class Money
     {
-        public decimal Amount { get; }
-        public string Currency { get; }
+        public decimal Amount { get; set;}
+        public string Currency { get; set;}
+        public Money(){}
 
 
         public Money(decimal amount, string currency)
@@ -24,7 +25,7 @@ namespace miniproj.Domain.ValueObjects
         }
         public Money subtract(decimal val)
         {
-            return (val >= 0 && val <= Amount) ? new Money(Amount - val, Currency.ToString()) : throw new ArgumentException("val has to be positive and less than or equal to amount");
+            return (val >= 0 && val <= Amount) ? new Money(Amount - val, Currency) : throw new ArgumentException("val has to be positive and less than or equal to amount");
         }
         public bool Equals(Money other)
         {
